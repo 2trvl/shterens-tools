@@ -1,0 +1,16 @@
+# telegram
+aiogram<3.0.0
+pyrogram==2.0.27
+tgcrypto==1.2.3
+aiogram-media-group==0.5.0
+
+# db
+motor==3.0.0
+
+# network
+crossplane==0.5.7
+pyngrok==5.1.0
+
+# asyncio
+aiorun==2022.4.1
+uvloop; sys_platform == "linux" or sys_platform == "darwin"
